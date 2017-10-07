@@ -1,6 +1,6 @@
 # Reservoir
 This is a Data Management tool made in Java, using Netbeans IDE.
-Theb backend is created in MySql using WAMP Server.
+The backend is created in MySql using WAMP Server.
 Allows a user to keep record of the data.
 This module is based on the work done at ONGC(Oil and Natural Gas Corporation Limited, Dehradun).
 An employee can update, insert, delete and veiw in the database, the changes will reflect throughout the organization.
