@@ -2,22 +2,22 @@
 
 ## How to build Reservoir Datamanagement System
 
-####Description
+### Description
 
-1.This is a Data Management tool made in Java, using Netbeans IDE.\n
-2.The backend is created in MySql using WAMP Server.\n
-3.Allows a user to keep record of the data.\n
-4.This module is based on the work done at ONGC(Oil and Natural Gas Corporation Limited, Dehradun).\n
-5.An employee can update, insert, delete and veiw in the database, the changes will reflect throughout the organization.\n
-6.An administrator login is also created, who has the authenticates an employee.\n
-7.The authentication involves allowing user to either veiw the data, or update it.\n
-8.The administrator is also responsible for creating id's of new users.\n
+* 1. This is a Data Management tool made in Java, using Netbeans IDE.
+* 2. The backend is created in MySql using WAMP Server.
+* 3. Allows a user to keep record of the data.
+* 4. This module is based on the work done at ONGC(Oil and Natural Gas Corporation Limited, Dehradun).
+* 5. An employee can update, insert, delete and veiw in the database, the changes will reflect throughout the organization.* * * 
+* 6. An administrator login is also created, who has the authenticates an employee.
+* 7. The authentication involves allowing user to either veiw the data, or update it.
+* 8. The administrator is also responsible for creating id's of new users.
 
-##Specifications
+#### Specifications
 
-1.Program works on Processor Intel atom or above.\n
-2.RAM should be above 512mb.\n
-3.ROM should be above 1tb.\n
+* 1. Program works on Processor Intel atom or above.   
+* 2. RAM should be above 512mb.    
+* 3. ROM should be above 1tb.  
 
 #### Building has been tested on 3 major platforms:
 
